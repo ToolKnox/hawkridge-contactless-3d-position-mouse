@@ -1,0 +1,10 @@
+Upstream: https://www.instructables.com/3D-Contactless-Mouse-Interactive-3D-Position-Senso/
+Instructables id: EGX6R9IHV3QC5G0
+Title: 3D Contactless Mouse (Interactive 3D Position Sensor)
+Author: birdyberth
+Published: 2014-06-02 20:02:32.0
+Licence field (showInstructableModel JSON, saved as docs/upstream-instructable.json):
+  shortName: by-sa
+  fullName: Attribution-ShareAlike
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+Scope: the author's own text, photos and attached files on the instructable.

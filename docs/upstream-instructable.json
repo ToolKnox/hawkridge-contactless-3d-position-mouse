@@ -1,0 +1,566 @@
+{
+    "favorites": 339,
+    "pastContestEntries": [{
+        "urlString": "sensors",
+        "bannerUrl": "https://content.instructables.com/FMH/TYA6/HX1W3ZXP/FMHTYA6HX1W3ZXP.jpg",
+        "title": "Sensors Contest",
+        "locale": "en_US",
+        "type": "CONTEST",
+        "studentPrizeCount": 0,
+        "bannerUrlLarge": "https://content.instructables.com/FMH/TYA6/HX1W3ZXP/FMHTYA6HX1W3ZXP.jpg",
+        "studentOnly": false,
+        "indexTags": ["internal"],
+        "bannerUrlSmall": "https://content.instructables.com/FMH/TYA6/HX1W3ZXP/FMHTYA6HX1W3ZXP.jpg",
+        "id": "VGSEU0NHTQNB2C6",
+        "headerFileId": "FOVXMUWHTR6EXCX",
+        "state": "closed",
+        "deadline": "2014-06-23 23:59:00",
+        "onlyUS": false,
+        "bannerUrlMedium": "https://content.instructables.com/FMH/TYA6/HX1W3ZXP/FMHTYA6HX1W3ZXP.jpg",
+        "headerUrlMedium": "https://content.instructables.com/FOV/XMUW/HTR6EXCX/FOVXMUWHTR6EXCX.jpg",
+        "bannerFileId": "FMHTYA6HX1W3ZXP",
+        "headerUrl": "https://content.instructables.com/FOV/XMUW/HTR6EXCX/FOVXMUWHTR6EXCX.jpg",
+        "headerUrlLarge": "https://content.instructables.com/FOV/XMUW/HTR6EXCX/FOVXMUWHTR6EXCX.jpg",
+        "prizeCount": 9,
+        "hasAppleProducts": false,
+        "headerUrlSmall": "https://content.instructables.com/FOV/XMUW/HTR6EXCX/FOVXMUWHTR6EXCX.jpg",
+        "startDate": "2014-04-08 00:00:00",
+        "resourceType": "InstructablesContest"
+    }],
+    "featureFlag": true,
+    "keywords": [
+        "sensor",
+        "robot",
+        "mouse",
+        "position"
+    ],
+    "commentingEnabled": true,
+    "urlString": "3D-Contactless-Mouse-Interactive-3D-Position-Senso",
+    "downloadUrl": "https://content.instructables.com/FQ0/LGKB/HV3QC5WG/FQ0LGKBHV3QC5WG.jpg",
+    "publishDate": "2014-06-02 20:02:32.0",
+    "usesAutodeskSoftware": false,
+    "showUrl": "/3D-Contactless-Mouse-Interactive-3D-Position-Senso/",
+    "title": "3D Contactless Mouse (Interactive 3D Position Sensor)",
+    "type": "Step by Step",
+    "locale": "en_US",
+    "homePageFeatureGiftSent": false,
+    "indexTags": ["internal"],
+    "coverImage": {
+        "image": true,
+        "embedType": "NONE",
+        "name": "20140510225338(1).jpg",
+        "modifiedDate": "2014-06-18 18:26:05.0",
+        "width": 2304,
+        "mosaic": false,
+        "downloadUrl": "https://content.instructables.com/FQ0/LGKB/HV3QC5WG/FQ0LGKBHV3QC5WG.jpg",
+        "imageNotes": [],
+        "id": "FQ0LGKBHV3QC5WG",
+        "height": 1296
+    },
+    "maxStepsAllowed": 151,
+    "id": "EGX6R9IHV3QC5G0",
+    "editVersion": 637,
+    "views": 18914,
+    "hideFromSearchEngine": false,
+    "numStepsByWordCount": 2,
+    "featuredBy": "craftclarity",
+    "comments": 11,
+    "author": {
+        "website": {
+            "title": "Vulnélab",
+            "url": "https://www.vulnelab.com"
+        },
+        "downloadUrl": "https://content.instructables.com/F3D/1U60/MJD3VQR5/F3D1U60MJD3VQR5.jpg",
+        "about": "I have a degree in engineering physics. I like to make crazy scientific experiments.",
+        "socialHandles": [
+            {
+                "handle": "frédérik-berthiaume-3334bb265",
+                "title": "LinkedIn"
+            },
+            {
+                "handle": "birdyberth",
+                "title": "YouTube"
+            }
+        ],
+        "id": "MKSYOFMHOKSDQPT",
+        "screenName": "birdyberth",
+        "isAdmin": false,
+        "followersCount": 105,
+        "recent": [{
+            "urlString": "Electrocardiograph-Heart-Rate-Monitor",
+            "downloadUrl": "https://content.instructables.com/F8L/JD5T/HOW0HQMZ/F8LJD5THOW0HQMZ.jpg",
+            "title": "Electrocardiograph & Heart Rate Monitor"
+        }]
+    },
+    "sponsoredFlag": false,
+    "steps": [
+        {
+            "stepIndex": 0,
+            "wordCount": 100,
+            "files": [
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "20140510225338(1).jpg",
+                    "modifiedDate": "2014-06-18 18:26:05.0",
+                    "width": 2304,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/FQ0/LGKB/HV3QC5WG/FQ0LGKBHV3QC5WG.jpg",
+                    "imageNotes": [],
+                    "id": "FQ0LGKBHV3QC5WG",
+                    "height": 1296
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "DSC00425.JPG",
+                    "modifiedDate": "2014-05-14 17:40:15.0",
+                    "width": 2617,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/FSR/MPYD/HV3QC7WC/FSRMPYDHV3QC7WC.jpg",
+                    "imageNotes": [],
+                    "id": "FSRMPYDHV3QC7WC",
+                    "height": 1472
+                }
+            ],
+            "showUrl": "/3D-Contactless-Mouse-Interactive-3D-Position-Senso/",
+            "id": "SK35VZEHV3QC5FZ",
+            "title": "3D Contactless Mouse (Interactive 3D Position Sensor)",
+            "body": "<p>Recently, I have made this 3D contactless mouse, which I use to control (or to try to control) my computer cursor. You can see the functionalities in the video below :<\/p><iframe allowfullscreen=\"true\" class=\"ql-video\" data-wat-video-found=\"true\" frameborder=\"0\" height=\"360\" id=\"waf_detected_youtube0\" src=\"//www.youtube.com/embed/pj1e4YbxBwM?rel=0&amp;enablejsapi=1&amp;origin=https://www.instructables.com&amp;enablejsapi=1&amp;origin=https://www.instructables.com\" width=\"640\"><\/iframe><p>All the computation is made on the arduino leonardo, which emulates a mouse. In fact, it's a very simple vision system that uses only five ultrasonic range sensors to make converge the robot towards the object and to lock its orientation on it by the primitive detection of the edges I've developped.<\/p><p>In this Instructable, I will show you how to build your own version of this amazing device!<\/p>",
+            "url": "https://www.instructables.com/3D-Contactless-Mouse-Interactive-3D-Position-Senso/"
+        },
+        {
+            "stepIndex": 1,
+            "wordCount": 134,
+            "files": [
+                {
+                    "image": false,
+                    "embedHtmlCode": "<iframe src=\"https://content.instructables.com/static/3dviewer/index.html?svf=https://content.instructables.com/FFL/ZWKL/MJD3VQEK/forge-derivs/b05d37001/SR04_holder_v3.svf\"><\/iframe>",
+                    "embedCoverImage": {
+                        "image": true,
+                        "embedType": "NONE",
+                        "name": "SR04_holder_v3.svf.png01_thumb_200x200.png",
+                        "modifiedDate": "2025-12-20 14:10:17.0",
+                        "width": 200,
+                        "mosaic": false,
+                        "downloadUrl": "https://content.instructables.com/FAE/URFW/MJD3VQTH/FAEURFWMJD3VQTH.png",
+                        "imageNotes": [],
+                        "id": "FAEURFWMJD3VQTH",
+                        "height": 200
+                    },
+                    "embedType": "RICH",
+                    "name": "SR04_holder_v3.stl",
+                    "modifiedDate": "2025-12-20 13:28:01.0",
+                    "downloadUrl": "https://content.instructables.com/FFL/ZWKL/MJD3VQEK/FFLZWKLMJD3VQEK.stl",
+                    "id": "FFLZWKLMJD3VQEK",
+                    "embedResourceUrl": "https://content.instructables.com/ORIG/FFL/ZWKL/MJD3VQEK/FFLZWKLMJD3VQEK.stl",
+                    "embedHost": "instructables.com"
+                },
+                {
+                    "image": false,
+                    "embedHtmlCode": "<iframe src=\"https://content.instructables.com/static/3dviewer/index.html?svf=https://content.instructables.com/F9N/WXYQ/MJD3VQF4/forge-derivs/27cbce591/SR04_holder_v2.svf\"><\/iframe>",
+                    "embedCoverImage": {
+                        "image": true,
+                        "embedType": "NONE",
+                        "name": "SR04_holder_v2.svf.png01_thumb_200x200.png",
+                        "modifiedDate": "2025-12-20 13:28:29.0",
+                        "width": 200,
+                        "mosaic": false,
+                        "downloadUrl": "https://content.instructables.com/F14/RB3Z/MJAQBMMU/F14RB3ZMJAQBMMU.png",
+                        "imageNotes": [],
+                        "id": "F14RB3ZMJAQBMMU",
+                        "height": 200
+                    },
+                    "embedType": "RICH",
+                    "name": "SR04_holder_v2.stl",
+                    "modifiedDate": "2025-12-20 13:28:02.0",
+                    "downloadUrl": "https://content.instructables.com/F9N/WXYQ/MJD3VQF4/F9NWXYQMJD3VQF4.stl",
+                    "id": "F9NWXYQMJD3VQF4",
+                    "embedResourceUrl": "https://content.instructables.com/F9N/WXYQ/MJD3VQF4/F9NWXYQMJD3VQF4.stl",
+                    "embedHost": "instructables.com"
+                },
+                {
+                    "image": false,
+                    "embedHtmlCode": "<iframe src=\"https://content.instructables.com/static/3dviewer/index.html?svf=https://content.instructables.com/FMP/3A8B/MJD3VQFO/forge-derivs/0e5722a91/frame.svf\"><\/iframe>",
+                    "embedCoverImage": {
+                        "image": true,
+                        "embedType": "NONE",
+                        "name": "frame.svf.png01_thumb_200x200.png",
+                        "modifiedDate": "2025-12-20 13:28:29.0",
+                        "width": 200,
+                        "mosaic": false,
+                        "downloadUrl": "https://content.instructables.com/FRN/GQSR/MJAQBZIM/FRNGQSRMJAQBZIM.png",
+                        "imageNotes": [],
+                        "id": "FRNGQSRMJAQBZIM",
+                        "height": 200
+                    },
+                    "embedType": "RICH",
+                    "name": "frame.stl",
+                    "modifiedDate": "2025-12-20 13:28:03.0",
+                    "downloadUrl": "https://content.instructables.com/FMP/3A8B/MJD3VQFO/FMP3A8BMJD3VQFO.stl",
+                    "id": "FMP3A8BMJD3VQFO",
+                    "embedResourceUrl": "https://content.instructables.com/FMP/3A8B/MJD3VQFO/FMP3A8BMJD3VQFO.stl",
+                    "embedHost": "instructables.com"
+                },
+                {
+                    "image": false,
+                    "embedHtmlCode": "<iframe src=\"https://content.instructables.com/static/3dviewer/index.html?svf=https://content.instructables.com/FMM/SA8M/MJD3VQG9/forge-derivs/869b3cc91/dessous_contour2.svf\"><\/iframe>",
+                    "embedCoverImage": {
+                        "image": true,
+                        "embedType": "NONE",
+                        "name": "dessous_contour2.svf.png01_thumb_200x200.png",
+                        "modifiedDate": "2025-12-20 13:28:29.0",
+                        "width": 200,
+                        "mosaic": false,
+                        "downloadUrl": "https://content.instructables.com/FHP/U4HJ/MJAQBR6A/FHPU4HJMJAQBR6A.png",
+                        "imageNotes": [],
+                        "id": "FHPU4HJMJAQBR6A",
+                        "height": 200
+                    },
+                    "embedType": "RICH",
+                    "name": "dessous_contour2.stl",
+                    "modifiedDate": "2025-12-20 13:28:03.0",
+                    "downloadUrl": "https://content.instructables.com/FMM/SA8M/MJD3VQG9/FMMSA8MMJD3VQG9.stl",
+                    "id": "FMMSA8MMJD3VQG9",
+                    "embedResourceUrl": "https://content.instructables.com/FMM/SA8M/MJD3VQG9/FMMSA8MMJD3VQG9.stl",
+                    "embedHost": "instructables.com"
+                },
+                {
+                    "image": false,
+                    "embedHtmlCode": "<iframe src=\"https://content.instructables.com/static/3dviewer/index.html?svf=https://content.instructables.com/FAR/8FST/MJD3VQGA/forge-derivs/3bd03b871/dessous_contour.svf\"><\/iframe>",
+                    "embedCoverImage": {
+                        "image": true,
+                        "embedType": "NONE",
+                        "name": "dessous_contour.svf.png01_thumb_200x200.png",
+                        "modifiedDate": "2025-12-20 13:28:29.0",
+                        "width": 200,
+                        "mosaic": false,
+                        "downloadUrl": "https://content.instructables.com/FOZ/OVS5/MJAQBR69/FOZOVS5MJAQBR69.png",
+                        "imageNotes": [],
+                        "id": "FOZOVS5MJAQBR69",
+                        "height": 200
+                    },
+                    "embedType": "RICH",
+                    "name": "dessous_contour.stl",
+                    "modifiedDate": "2025-12-20 13:28:03.0",
+                    "downloadUrl": "https://content.instructables.com/FAR/8FST/MJD3VQGA/FAR8FSTMJD3VQGA.stl",
+                    "id": "FAR8FSTMJD3VQGA",
+                    "embedResourceUrl": "https://content.instructables.com/FAR/8FST/MJD3VQGA/FAR8FSTMJD3VQGA.stl",
+                    "embedHost": "instructables.com"
+                },
+                {
+                    "image": false,
+                    "embedHtmlCode": "<iframe src=\"https://content.instructables.com/static/3dviewer/index.html?svf=https://content.instructables.com/FJR/1VRQ/MJD3VQHI/forge-derivs/e71669221/contour_vis.svf\"><\/iframe>",
+                    "embedCoverImage": {
+                        "image": true,
+                        "embedType": "NONE",
+                        "name": "contour_vis.svf.png01_thumb_200x200.png",
+                        "modifiedDate": "2025-12-20 13:28:29.0",
+                        "width": 200,
+                        "mosaic": false,
+                        "downloadUrl": "https://content.instructables.com/FG8/8BH9/MJAQBR6B/FG88BH9MJAQBR6B.png",
+                        "imageNotes": [],
+                        "id": "FG88BH9MJAQBR6B",
+                        "height": 200
+                    },
+                    "embedType": "RICH",
+                    "name": "contour_vis.stl",
+                    "modifiedDate": "2025-12-20 13:28:04.0",
+                    "downloadUrl": "https://content.instructables.com/FJR/1VRQ/MJD3VQHI/FJR1VRQMJD3VQHI.stl",
+                    "id": "FJR1VRQMJD3VQHI",
+                    "embedResourceUrl": "https://content.instructables.com/FJR/1VRQ/MJD3VQHI/FJR1VRQMJD3VQHI.stl",
+                    "embedHost": "instructables.com"
+                },
+                {
+                    "image": false,
+                    "embedHtmlCode": "<iframe src=\"https://content.instructables.com/static/3dviewer/index.html?svf=https://content.instructables.com/F6F/XIPP/MJD3VQHJ/forge-derivs/2063010e1/contour_servo.svf\"><\/iframe>",
+                    "embedCoverImage": {
+                        "image": true,
+                        "embedType": "NONE",
+                        "name": "contour_servo.svf.png01_thumb_200x200.png",
+                        "modifiedDate": "2025-12-20 13:28:29.0",
+                        "width": 200,
+                        "mosaic": false,
+                        "downloadUrl": "https://content.instructables.com/FET/795C/MJAQBZIN/FET795CMJAQBZIN.png",
+                        "imageNotes": [],
+                        "id": "FET795CMJAQBZIN",
+                        "height": 200
+                    },
+                    "embedType": "RICH",
+                    "name": "contour_servo.stl",
+                    "modifiedDate": "2025-12-20 13:28:04.0",
+                    "downloadUrl": "https://content.instructables.com/F6F/XIPP/MJD3VQHJ/F6FXIPPMJD3VQHJ.stl",
+                    "id": "F6FXIPPMJD3VQHJ",
+                    "embedResourceUrl": "https://content.instructables.com/F6F/XIPP/MJD3VQHJ/F6FXIPPMJD3VQHJ.stl",
+                    "embedHost": "instructables.com"
+                },
+                {
+                    "image": false,
+                    "embedHtmlCode": "<iframe src=\"https://content.instructables.com/static/3dviewer/index.html?svf=https://content.instructables.com/FOH/9JNM/MJD3VQIV/forge-derivs/a27160021/base2.svf\"><\/iframe>",
+                    "embedCoverImage": {
+                        "image": true,
+                        "embedType": "NONE",
+                        "name": "base2.svf.png01_thumb_200x200.png",
+                        "modifiedDate": "2025-12-20 13:28:29.0",
+                        "width": 200,
+                        "mosaic": false,
+                        "downloadUrl": "https://content.instructables.com/FZ9/ZINC/MJAQBMMV/FZ9ZINCMJAQBMMV.png",
+                        "imageNotes": [],
+                        "id": "FZ9ZINCMJAQBMMV",
+                        "height": 200
+                    },
+                    "embedType": "RICH",
+                    "name": "base2.stl",
+                    "modifiedDate": "2025-12-20 13:28:04.0",
+                    "downloadUrl": "https://content.instructables.com/FOH/9JNM/MJD3VQIV/FOH9JNMMJD3VQIV.stl",
+                    "id": "FOH9JNMMJD3VQIV",
+                    "embedResourceUrl": "https://content.instructables.com/FOH/9JNM/MJD3VQIV/FOH9JNMMJD3VQIV.stl",
+                    "embedHost": "instructables.com"
+                }
+            ],
+            "showUrl": "/3D-Contactless-Mouse-Interactive-3D-Position-Senso/step1/List-of-Materials/",
+            "id": "SDPU287HV3QC62G",
+            "title": "List of Materials",
+            "body": "<ol><li data-list=\"bullet\">The 3D printed parts listed below<\/li><li data-list=\"bullet\">A small screw and two bolts (I can't tell the type but the screw is about 1/8'' in diameter, 1'' in lenght)<\/li><li data-list=\"bullet\">A rotationnal bearing (I've made one with a small rod and a small roller taken in a cassette player)<\/li><li data-list=\"bullet\">Some counterweight (I use three 25 cents)<\/li><li data-list=\"bullet\">An Arduino Leonardo<\/li><li data-list=\"bullet\">Six micro servomotors 9g<\/li><li data-list=\"bullet\">Five ultrasonic range finder<\/li><li data-list=\"bullet\">A lot of connecting wires (15 female to male and 18 male to male, plus some breadboard wire)<\/li><li data-list=\"bullet\">A micro usb to usb A wire<\/li><li data-list=\"bullet\">An arduino protoshield with a mini breadboard<\/li><li data-list=\"bullet\">An external 5V DC power supply for the servos<\/li><li data-list=\"bullet\">A 555 timer<\/li><li data-list=\"bullet\">A LM386 amplifier<\/li><li data-list=\"bullet\">An electret microphone<\/li><li data-list=\"bullet\">Resistances (2X 4.7kΩ, 1X 10kΩ, 1X 100kΩ)<\/li><li data-list=\"bullet\">Capacitors (3X 10nF, 1X 1µF)<\/li><\/ol><p>Tools :<\/p><ol><li data-list=\"bullet\">A glue gun<\/li><li data-list=\"bullet\">A computer<\/li><\/ol>",
+            "url": "https://www.instructables.com/3D-Contactless-Mouse-Interactive-3D-Position-Senso/step1/List-of-Materials/"
+        },
+        {
+            "stepIndex": 2,
+            "wordCount": 291,
+            "files": [
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "SAM_0956.JPG",
+                    "modifiedDate": "2014-05-25 11:20:21.0",
+                    "width": 4320,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/F9Q/1KSM/HVLYB3MK/F9Q1KSMHVLYB3MK.jpg",
+                    "imageNotes": [],
+                    "id": "F9Q1KSMHVLYB3MK",
+                    "height": 2880
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "SAM_0957.JPG",
+                    "modifiedDate": "2014-05-25 11:20:31.0",
+                    "width": 4320,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/FY5/0SCV/HVLYB3MS/FY50SCVHVLYB3MS.jpg",
+                    "imageNotes": [],
+                    "id": "FY50SCVHVLYB3MS",
+                    "height": 2880
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "SAM_0972.JPG",
+                    "modifiedDate": "2014-05-25 11:23:18.0",
+                    "width": 4320,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/FR9/MLYJ/HVLYB3TY/FR9MLYJHVLYB3TY.jpg",
+                    "imageNotes": [],
+                    "id": "FR9MLYJHVLYB3TY",
+                    "height": 2880
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "SAM_0959.JPG",
+                    "modifiedDate": "2014-05-25 11:20:38.0",
+                    "width": 4320,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/FW9/BAMS/HVLYB3OP/FW9BAMSHVLYB3OP.jpg",
+                    "imageNotes": [],
+                    "id": "FW9BAMSHVLYB3OP",
+                    "height": 2880
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "SAM_0961.JPG",
+                    "modifiedDate": "2014-05-25 11:21:21.0",
+                    "width": 4320,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/FTW/KG5Q/HVLYB3P7/FTWKG5QHVLYB3P7.jpg",
+                    "imageNotes": [],
+                    "id": "FTWKG5QHVLYB3P7",
+                    "height": 2880
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "SAM_0960.JPG",
+                    "modifiedDate": "2014-05-25 11:20:41.0",
+                    "width": 4320,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/FX1/4MA7/HVLYB3P3/FX14MA7HVLYB3P3.jpg",
+                    "imageNotes": [],
+                    "id": "FX14MA7HVLYB3P3",
+                    "height": 2880
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "SAM_0973.JPG",
+                    "modifiedDate": "2014-05-25 11:23:21.0",
+                    "width": 4320,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/FOI/GFP9/HVLYB3U0/FOIGFP9HVLYB3U0.jpg",
+                    "imageNotes": [],
+                    "id": "FOIGFP9HVLYB3U0",
+                    "height": 2880
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "SAM_0966.JPG",
+                    "modifiedDate": "2014-05-25 11:22:53.0",
+                    "width": 4320,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/F2S/XO5C/HVLYB3QD/F2SXO5CHVLYB3QD.jpg",
+                    "imageNotes": [],
+                    "id": "F2SXO5CHVLYB3QD",
+                    "height": 2880
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "SAM_0967.JPG",
+                    "modifiedDate": "2014-05-25 11:22:57.0",
+                    "width": 4320,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/FMK/FOBN/HVLYB3R5/FMKFOBNHVLYB3R5.jpg",
+                    "imageNotes": [],
+                    "id": "FMKFOBNHVLYB3R5",
+                    "height": 2880
+                }
+            ],
+            "showUrl": "/3D-Contactless-Mouse-Interactive-3D-Position-Senso/step2/Glue-the-Parts/",
+            "id": "SFVLDN0HV3QC8PM",
+            "title": "Glue the Parts",
+            "body": "<p>I'm using hot glue since it's sufficiently robust for the need, it works great with PLA and moreover, it can easily be completely removed if you've glued something wrong.<\/p><p><u>Ultrasonic range finders<\/u> :<\/p><p style=\"margin-left: 20.0px;\">Put a little bit of glue on the crystal, then glue the support. Solidify the barrels. Glue a servo horn on the side.<\/p><p><u>Central section<\/u> :<\/p><p style=\"margin-left: 20.0px;\">Glue the 4 servos in their appropriate casings. They should be glued to the frame in their middle. Tape or glue their wires in the backside. Glue the central ultrasonic range finder in the center.<\/p><p><u>Base<\/u> :<\/p><p style=\"margin-left: 20.0px;\">Pass the servo wires in the hole of the support, then glue the servo to it. You can put a clamp to secure the robot to a table. Also, you can glue the arduino to it via a <a href=\"http://www.thingiverse.com/thing:26237\" rel=\"nofollow noopener noreferrer\">3D printed support<\/a>.<\/p><p><u>Mounting bracket<\/u> :<\/p><p style=\"margin-left: 20.0px;\">Glue the two sides together with the little base. Attach the servo horn to the base servo, then glue the bottom of the mounting bracket to it. There is a hole to solidify this junction, don't hesitate to fill it with hot glue. Glue a servo to the square hole to the top of the bracket, gear towards the interior and in the upper section. Glue the 2 nuts in the top of the other bracket, insert the screw, glue the roller to the tip of it. Glue the little rod on the central frame. To mount the central frame, unscrew to make a little space, then insert the rod in the roller and screw until everything is secure. This part of the robot is a little bit fragile, you may have to repair it often. Finally, glue three 25 cents below the nuts (this is a counterweight of the servo).<\/p>",
+            "url": "https://www.instructables.com/3D-Contactless-Mouse-Interactive-3D-Position-Senso/step2/Glue-the-Parts/"
+        },
+        {
+            "stepIndex": 3,
+            "wordCount": 267,
+            "files": [
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "SAM_0970.JPG",
+                    "modifiedDate": "2014-05-25 11:23:11.0",
+                    "width": 4320,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/F99/DI0K/HVLYB3TO/F99DI0KHVLYB3TO.jpg",
+                    "imageNotes": [],
+                    "id": "F99DI0KHVLYB3TO",
+                    "height": 2880
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "SAM_0971.JPG",
+                    "modifiedDate": "2014-05-25 11:23:14.0",
+                    "width": 4320,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/FTK/PEV1/HVLYB3TT/FTKPEV1HVLYB3TT.jpg",
+                    "imageNotes": [],
+                    "id": "FTKPEV1HVLYB3TT",
+                    "height": 2880
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "Souris sans contact_bb.jpg",
+                    "modifiedDate": "2014-06-02 18:02:48.0",
+                    "width": 747,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/F09/7UW1/HVXE17JL/F097UW1HVXE17JL.jpg",
+                    "imageNotes": [],
+                    "id": "F097UW1HVXE17JL",
+                    "height": 627
+                },
+                {
+                    "image": true,
+                    "embedType": "NONE",
+                    "name": "Souris sans contact_sc&eacute;ma.jpg",
+                    "modifiedDate": "2014-06-02 18:02:54.0",
+                    "width": 3399,
+                    "mosaic": false,
+                    "downloadUrl": "https://content.instructables.com/F9R/GKA0/HVXE17JN/F9RGKA0HVXE17JN.jpg",
+                    "imageNotes": [],
+                    "id": "F9RGKA0HVXE17JN",
+                    "height": 1626
+                }
+            ],
+            "showUrl": "/3D-Contactless-Mouse-Interactive-3D-Position-Senso/step3/Connect-the-Servos-and-the-Sensors-and-Build-the-C/",
+            "id": "S4XK8NXHV3QC8QT",
+            "title": "Connect the Servos and the Sensors and Build the Circuit",
+            "body": "<p>Connecting all the wires can get a bit messy (I talk by experience...). Use a good amount of methodology. Note that I use a one-data-pin configuration for the ultrasonic sensors. In the model I use, the Trigger and Echo are on separate pins, so I've put a little jumper. <\/p><p>Here are the listing of the pinout for the connection to the arduino :<\/p><p>2 : base servo (theta)<\/p><p>3 : Non-connected for interference reason<\/p><p>4 : up &amp; left servo<\/p><p>5 : down &amp; left servo<\/p><p>6 : down &amp; right servo<\/p><p>7 : up &amp; right servo<\/p><p>8 : up &amp; left sensor<\/p><p>9 : down &amp; left sensor<\/p><p>10 : down &amp; right sensor<\/p><p>11 : up &amp; right sensor<\/p><p>12 : middle sensor<\/p><p>A0 : tilt servo (phi)<\/p><p>A1 : Sound input<\/p><p>Connect the Vcc of the sensor to the 5V regulated by the arduino.<\/p><p><strong>Important : Connect the Vcc of the servos to an external 5V supply<\/strong> (otherwise, your Arduino will suffer...)<\/p><p>Connect all the grounds together.<\/p><p>I've joined a picture of my breadboard along with schemas. It's a bit compact, you can see that the unused space on the shematic breadboard is in reality full of supply wires for all the servos and the sensors. As there is no supply rails on a mini breadboard, it's more difficult to understand the circuit and to troubleshoot. This is not a complex circuit, take your time and everything will go straightforward. The voltage divider before the LM386 can be replaced by a trimpot for a more accurate control on the sensibility of the microphone.<\/p>",
+            "url": "https://www.instructables.com/3D-Contactless-Mouse-Interactive-3D-Position-Senso/step3/Connect-the-Servos-and-the-Sensors-and-Build-the-C/"
+        },
+        {
+            "stepIndex": 4,
+            "wordCount": 77,
+            "files": [
+                {
+                    "image": false,
+                    "embedType": "NONE",
+                    "name": "echolocator3d.ino",
+                    "modifiedDate": "2014-05-24 09:33:15.0",
+                    "downloadUrl": "https://content.instructables.com/FNQ/2WQH/HVJDXTH4/FNQ2WQHHVJDXTH4.ino",
+                    "id": "FNQ2WQHHVJDXTH4"
+                },
+                {
+                    "image": false,
+                    "embedType": "NONE",
+                    "name": "test_servos.ino",
+                    "modifiedDate": "2014-05-24 09:33:15.0",
+                    "downloadUrl": "https://content.instructables.com/FRL/3YIP/HVJDXT9Q/FRL3YIPHVJDXT9Q.ino",
+                    "id": "FRL3YIPHVJDXT9Q"
+                }
+            ],
+            "showUrl": "/3D-Contactless-Mouse-Interactive-3D-Position-Senso/step4/Upload-the-Code/",
+            "id": "S60953RHV3QC8RN",
+            "title": "Upload the Code",
+            "body": "<p>This is the code (echolocator3d.ino). I've commented it so it should be readable, but don't hesitate to communicate with me if something is unclear. <\/p><p>I've also made a short code for testing the servos. Run it and play with angle values to find flat initial positions (all the sensor must align in the central plane). Then put these values in the real program, in the \"servo start angle\" section.<\/p><p>The serial monitor is also useful for debugging.<\/p>",
+            "url": "https://www.instructables.com/3D-Contactless-Mouse-Interactive-3D-Position-Senso/step4/Upload-the-Code/"
+        },
+        {
+            "stepIndex": 5,
+            "wordCount": 273,
+            "files": [],
+            "showUrl": "/3D-Contactless-Mouse-Interactive-3D-Position-Senso/step5/Familiarize-With-Controls/",
+            "id": "SYQA0WHHV3QC8YJ",
+            "title": "Familiarize With Controls",
+            "body": "<p>At this step, everything should work fine. The robot is most of the time capable to follow your hand. Here is the user guide for the interface with the mouse :<\/p><ul>    <li>Stay between 10cm and 30cm of the robot : this is the range where scroll is not activated    <\/li><li>Below 10cm, you will scroll down; over 30cm, you will scroll up.    <\/li><li>The maximum distance where an object is detected is 45cm. Staying farther than that will trigger the scan mode and deactivate the mouse function (don't panic!)    <\/li><li>The angular position relative to the center will determine the cursor movement. It's made to naturally mirror the movement (like a conventional mouse). Unlike a conventional mouse, a perpetual motion will result of a shift in position. If you want no cursor movements, return to the center. Moving near the center will lead to a precise, low speed displacement, whereas moving far (within the limits) will lead to a higher speed displacement. Note that in all cases it remains sufficiently slow to maintain a correct control of the cursor. As the sampling rate of the sensor is low (~17Hz), it may present a little latency (it's also due to the little torque the tiny servos can output). It's not an interface made for rapid interaction and the good old mouse is better for achieving the same task.    <\/li><li>A snap of finger will make a left click (or maybe two (double-click), or maybe not). The reliability is not 100% for many reasons (the correct sensibility is very hard to achieve, the time for executing a loop may vary, etc.), but admit that this trick is pretty cool!<\/li><\/ul>",
+            "url": "https://www.instructables.com/3D-Contactless-Mouse-Interactive-3D-Position-Senso/step5/Familiarize-With-Controls/"
+        }
+    ],
+    "classifications": [{
+        "channels": [{
+            "name": "sensors",
+            "title": "Sensors",
+            "type": "channel"
+        }],
+        "name": "circuits",
+        "title": "Circuits",
+        "type": "category"
+    }],
+    "license": {
+        "fullName": "Attribution-ShareAlike",
+        "shortName": "by-sa",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "editUrl": "/editInstructable/edit/EGX6R9IHV3QC5G0",
+    "modifiedDate": "2025-12-20 13:31:18.0",
+    "fullAccessFlag": false,
+    "homePageFeatureFlag": false,
+    "files": [],
+    "suppliesFiles": [],
+    "status": "PUBLISHED",
+    "featuredDate": "2014-06-04 13:57:47.0"
+}
